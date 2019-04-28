@@ -63,7 +63,7 @@ namespace FlightSimulator.Model
             ASCIIEncoding asen = new ASCIIEncoding();
             Byte[] ba;
             Byte[] bb = new byte[100];
-            while (_isConnected)
+            while (_isConnected && client.Connected)
             {
                 // send from queue
                 while (this.queue.Count == 0)

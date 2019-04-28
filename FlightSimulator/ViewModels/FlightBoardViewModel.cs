@@ -45,7 +45,7 @@
             set
             {
                 lat = value;
-                NotifyPropertyChanged("Lat");
+              //  NotifyPropertyChanged("Lat");
             }
         }
 

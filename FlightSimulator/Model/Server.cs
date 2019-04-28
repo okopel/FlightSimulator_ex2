@@ -44,27 +44,39 @@ namespace FlightSimulator.Model
             using (BinaryReader reader = new BinaryReader(stream))
             using (BinaryWriter writer = new BinaryWriter(stream))
             {
-                string buffer = "";
                 while (_isConnected)
                 {
+                    bool isNewLine = false;
+                    var charsData = new System.Text.StringBuilder();
+                    char c;
+                    while (!isNewLine)
+                    {
+                        //read until new line
+                        c = reader.ReadChar();
+                        switch (c)
+                        {
+                            case '\r':
+                                //unix case
+                                if (reader.PeekChar() == '\n')
+                                {
+                                    reader.ReadChar();
+                                }
+                                isNewLine = true;
+                                break;
+                            case '\n':
+                                //win case
+                                isNewLine = true;
+                                break;
+                            default:
+                                //not new line case,so cintinu reading
+                                charsData.Append(c);
+                                break;
+                        }
+                    }
                     // get pocket of data from simulator
-                    string data = reader.ReadString();
-                    if (!(data.Contains("\r\n") || data.Contains("\n")))
-                    {
-                        buffer += data;
-                        continue;
-                    }
-                    else
-                    {
-                        string[] parse = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.None);
-                        buffer += parse[0];
-                        // pocket finished 
-                        this.loadDataFromServer(buffer);
-                        // next pocket
-                        buffer = parse[1];
-                    }
-
-                    System.Threading.Thread.Sleep(1 * 1000);
+                    string data = charsData.ToString();
+                    this.loadDataFromServer(data);
+               //     System.Threading.Thread.Sleep(1 * 1000);
                 }
             }
             client.Close();
@@ -82,25 +94,12 @@ namespace FlightSimulator.Model
         private void loadDataFromServer(string data)
         {
             string[] args = data.Split(new[] { "," }, StringSplitOptions.None);
-            try
-            {
-                flight.Lat = Convert.ToDouble(args[0]);
-                flight.Lon = Convert.ToDouble(args[1]);
-            }
-            // fix strange bug
-            catch
-            {
-                if (args[0].Length > 14)//6 digits after point*2+2 points+2* more than 1 digit before the .
-                {
-                    string[] del = args[0].Split('.');
-                    string first = del[0] + "." + (del[1].Substring(0, 6));
-                    string sec = (del[1].Substring(6)) + "." + del[2];
-
-                    flight.Lat = Convert.ToDouble(first);
-                    flight.Lon = Convert.ToDouble(sec);
-                    return;
-                }
-            }
+            flight.Lat = Convert.ToDouble(args[0]);
+            flight.Lon = Convert.ToDouble(args[1]);
         }
+
+
+
     }
 }
+

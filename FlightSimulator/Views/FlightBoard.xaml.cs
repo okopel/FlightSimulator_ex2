@@ -39,6 +39,7 @@ namespace FlightSimulator.Views
                 double y = this.vm.Lon;
                 Point p1 = new Point(x,y);
                 planeLocations.AppendAsync(Dispatcher, p1);
+                System.Console.WriteLine(x+","+y);
             }
         }
 

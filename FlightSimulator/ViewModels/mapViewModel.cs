@@ -4,14 +4,13 @@ using System.Windows.Input;
 
 namespace FlightSimulator.ViewModels
 {
-    class mapViewModel:BaseNotify
+    class mapViewModel : BaseNotify
     {
         private Views.settingBox mySettingBox;
         private flightManager flightManager;
 
         public mapViewModel()
         {
-            this.mySettingBox = new Views.settingBox();
             this.flightManager = flightManager.Instance;
         }
 
@@ -25,15 +24,13 @@ namespace FlightSimulator.ViewModels
             }
         }
 
-        private SettingsWindowViewModel settingVM=null;
+        private SettingsWindowViewModel settingVM = null;
         // setting buttom
         private void SettingClick()
         {
-            if (settingVM == null)
-            {
-                settingVM = new SettingsWindowViewModel(ApplicationSettingsModel.Instance);
-                this.mySettingBox.setDataContex(settingVM);
-            }
+            this.mySettingBox = new Views.settingBox();
+            settingVM = new SettingsWindowViewModel(ApplicationSettingsModel.Instance);
+            this.mySettingBox.setDataContex(settingVM);
             this.mySettingBox.ShowDialog();
         }
 
