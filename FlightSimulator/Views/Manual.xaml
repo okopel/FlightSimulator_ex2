@@ -1,0 +1,80 @@
+﻿<UserControl x:Class="FlightSimulator.Views.Manual"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlightSimulator.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="340.116" d:DesignWidth="343.023">
+    <Grid Margin="0,0,345,0">
+        <Grid Background="PeachPuff" Margin="0,0,-343,27">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="73*"/>
+                <ColumnDefinition Width="14*"/>
+                <ColumnDefinition Width="261*"/>
+            </Grid.ColumnDefinitions>
+
+            <Viewbox  HorizontalAlignment="Center" Height="200" Margin="2,45,59,0"  VerticalAlignment="Top" Width="200"  Grid.Column="2">
+                <local:Joystick x:Name="myJoystick" Width="348"/>
+
+
+            </Viewbox>
+            <Slider x:Name="rudder"  Value="{Binding ruddertxt, UpdateSourceTrigger=PropertyChanged}" IsSnapToTickEnabled="True" HorizontalAlignment="Left" Margin="0,270,0,0" VerticalAlignment="Top" Width="200" Height="43" Maximum="1" Minimum="-1" TickPlacement="BottomRight"  Grid.Column="2" TickFrequency="0.05"/>
+            <Slider x:Name="throttle" Value="{Binding throttletxt, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="-52,127,0,0" IsSnapToTickEnabled="True" VerticalAlignment="Top" Width="200" Height="35" Maximum="1" Minimum="0" TickPlacement="BottomRight" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="3" TickFrequency="0.05">
+                <Slider.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Slider.RenderTransform>
+            </Slider>
+            <TextBlock Name="rudderTB" Text="{Binding ElementName=rudder, Path=Value,StringFormat=N2}" HorizontalAlignment="Left" Margin="202,263,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Grid.Column="2" FontWeight="Bold">
+                
+            </TextBlock>
+            <TextBlock  Name="throTxt" HorizontalAlignment="Left" Margin="53,32,0,0" TextWrapping="Wrap" Text="{Binding Value, ElementName=throttle, StringFormat=N2}" VerticalAlignment="Top" RenderTransformOrigin="-34.619,-2.042" Grid.ColumnSpan="2" FontWeight="Bold"/>
+            <Label Content="&lt;- rudder -&gt;" HorizontalAlignment="Left" Margin="64,277,0,0" VerticalAlignment="Top" Grid.Column="2"/>
+            <Label Content="&lt;- throttle -&gt;" HorizontalAlignment="Left" Margin="-28,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.00"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Label Content="&lt;- aileron -&gt;" HorizontalAlignment="Left" Margin="59,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Grid.Column="2"/>
+            <Label Content="&lt;- elevator -&gt;" HorizontalAlignment="Left" Margin="179,134,-12,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Grid.Column="2" Width="90">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+
+
+
+            <TextBlock Name="Ailerontxt"  Text="{Binding ElementName=myJoystick, Path=Aileron,StringFormat=N2}" HorizontalAlignment="Left" Margin="178,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="2" FontWeight="Bold"/>
+            <TextBlock Name="EleText" Text="{Binding ElementName=myJoystick, Path=Elevator, StringFormat=N2}" HorizontalAlignment="Left" Margin="206,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="2" RenderTransformOrigin="0.5,0.5" Width="36" FontWeight="Bold">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+
+
+
+
+        </Grid>
+
+    </Grid>
+</UserControl>

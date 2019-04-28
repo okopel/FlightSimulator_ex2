@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="FlightSimulator.Views.map"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FlightSimulator.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="347.093" d:DesignWidth="367.442">
+    <UserControl.Resources>
+        <Style x:Key="my_btn" TargetType="{x:Type Button}">
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="Width" Value="auto"/>
+            <Setter Property="Height" Value="Auto"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Background">
+                <Setter.Value>
+                    <LinearGradientBrush>
+                        <GradientStop Color="Gray" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+
+        </Style>
+    </UserControl.Resources>
+    <Grid Margin="0,0,305,0">
+        <local:FlightBoard HorizontalAlignment="Left" Height="318" Margin="-27,32,-346,0" VerticalAlignment="Top" Width="373"/>
+        <Button Grid.Row="0" Grid.Column="0" Content="Settings"   Command="{Binding SettingCommand}"     Margin="262,5,-280,0"   Style="{StaticResource my_btn}"/>
+        <Button Grid.Row="0" Grid.Column="1" Content="Connect"    Command="{Binding ConnectCommand}"     Margin="153,5,-171,0"   Style="{StaticResource my_btn}"/>
+        <Button Grid.Row="0" Grid.Column="2" Content="Disconnect" Command="{Binding DisConnectCommand}"  Margin="43,5,-61,0"     Style="{StaticResource my_btn}"/>
+    </Grid>
+</UserControl>

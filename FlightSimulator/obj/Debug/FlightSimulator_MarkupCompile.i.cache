@@ -1,0 +1,20 @@
+﻿FlightSimulator
+
+
+winexe
+C#
+.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\
+FlightSimulator
+none
+false
+DEBUG;TRACE
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\App.xaml
+7-1530550426
+
+30343055246
+19146144570
+MainWindow.xaml;Views\FlightBoard.xaml;Views\Joystick.xaml;Views\Manual.xaml;Views\map.xaml;Views\settingBox.xaml;Views\AutoPilot.xaml;
+
+True
+

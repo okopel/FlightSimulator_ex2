@@ -1,0 +1,145 @@
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.Communication.dll
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.Communication.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\InterpreterView.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\App.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilotView.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\InterpreterView.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Windows\SettingsWindow.baml
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\Dor Nisim\Source\Repos\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Dor Nisim\Desktop\Teaching\Advanced Programming 2\Excrecises\Ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\settingBox.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\settingBox.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Manual.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilot.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\Manual.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilot.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\map.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\Views\map.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\Manual.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\map.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\settingBox.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilot.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\Manual.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\map.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\settingBox.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\Views\AutoPilot.baml
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\שלמה רבינוביץ\Downloads\FlightSimulator\FlightSimulator\obj\Debug\FlightSimulator.pdb
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\bin\Debug\FlightSimulator.exe.config
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\bin\Debug\FlightSimulator.exe
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\bin\Debug\FlightSimulator.pdb
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\bin\Debug\DynamicDataDisplay.dll
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\bin\Debug\DynamicDataDisplay.xml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.csprojAssemblyReference.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\Joystick.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\FlightBoard.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\Joystick.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\Manual.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\map.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\settingBox.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\AutoPilot.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\App.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator_MarkupCompile.lref
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\MainWindow.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\FlightBoard.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\Manual.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\map.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\settingBox.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\Views\AutoPilot.baml
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.g.resources
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.Properties.Resources.resources
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.csproj.GenerateResource.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.csproj.CoreCompileInputs.cache
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.csproj.CopyComplete
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.exe
+C:\Users\okopel\Dropbox\מסמכים\תרגילים מדמח\שנה ב סמסטר ב\תכנות מתקדם 2\ex2\FlightSimulator from shlomo\FlightSimulator\obj\Debug\FlightSimulator.pdb
